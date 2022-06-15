@@ -9,6 +9,8 @@
 # Make sure to declare ALL dependencies here to make sure R can find them.
 NULL
 
+#' @import stats
+#' @import graphics
 #' @import shiny
 #' @import raveio
 #' @import rave
